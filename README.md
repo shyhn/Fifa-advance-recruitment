@@ -2,7 +2,7 @@
 How to recruit the best player based on Statistics
 
 
-Original Dataset : Everything has been scrapped from www.sofifa.com (Around 150 hours) 
+Original Dataset : Everything has been scrapped from www.sofifa.com (Around 150 hours) using Scrappy.
 
 
 The main goal was to improve the recruitment of a player based on statistics, its capacity to fit in a team and visualisations.
